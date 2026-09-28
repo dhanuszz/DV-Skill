@@ -1,0 +1,101 @@
+Order ID,Order Date,Category,Sub-Category,State,Region,Sales,Quantity,Discount,Profit
+CA-1001,2024-02-22,Technology,Laptop,Illinois,East,69.52,4,0.1,-4.34
+CA-1002,2024-10-14,Technology,Phone,Texas,South,82.93,4,0.0,-12.7
+CA-1003,2024-12-23,Furniture,Table,Florida,Central,1186.75,1,0.1,242.95
+CA-1004,2024-07-13,Office Supplies,Paper,California,Central,446.32,2,0.0,81.12
+CA-1005,2024-07-12,Office Supplies,Pen,California,Central,543.75,8,0.0,-96.94
+CA-1006,2024-01-24,Technology,Printer,Texas,Central,1773.19,4,0.0,-34.01
+CA-1007,2024-03-24,Furniture,Chair,New York,Central,1735.64,8,0.2,-17.25
+CA-1008,2024-09-30,Furniture,Bookcase,Texas,West,548.62,2,0.1,147.21
+CA-1009,2024-12-16,Office Supplies,Binder,New York,East,554.5,9,0.1,145.66
+CA-1010,2024-10-17,Furniture,Chair,New York,West,1613.99,2,0.1,0.94
+CA-1011,2024-05-15,Technology,Phone,Texas,West,803.35,8,0.1,206.68
+CA-1012,2024-07-04,Technology,Printer,Texas,West,1087.18,7,0.3,188.63
+CA-1013,2024-11-17,Technology,Phone,Texas,South,200.0,2,0.1,-35.29
+CA-1014,2024-10-10,Technology,Laptop,California,East,781.84,8,0.2,76.58
+CA-1015,2024-05-30,Technology,Printer,Florida,West,1506.74,6,0.0,277.69
+CA-1016,2024-09-16,Office Supplies,Paper,California,Central,1908.56,5,0.1,454.1
+CA-1017,2024-11-02,Technology,Printer,New York,South,1225.76,3,0.0,-151.48
+CA-1018,2024-01-30,Furniture,Chair,Texas,East,1859.62,5,0.1,445.12
+CA-1019,2024-03-06,Furniture,Bookcase,Florida,West,982.26,9,0.1,-162.46
+CA-1020,2024-12-31,Office Supplies,Pen,New York,South,1747.42,4,0.1,20.22
+CA-1021,2024-05-06,Technology,Printer,Texas,East,759.37,8,0.0,189.7
+CA-1022,2024-02-06,Office Supplies,Paper,California,West,1184.85,4,0.0,-100.64
+CA-1023,2024-12-08,Furniture,Chair,Florida,West,1722.08,4,0.2,-283.4
+CA-1024,2024-05-04,Technology,Laptop,Florida,South,1452.24,10,0.3,350.27
+CA-1025,2024-08-27,Furniture,Chair,California,East,211.92,7,0.3,3.29
+CA-1026,2024-04-08,Furniture,Table,Texas,South,1461.86,2,0.1,292.81
+CA-1027,2024-10-08,Furniture,Table,California,East,383.31,2,0.3,12.0
+CA-1028,2024-07-27,Technology,Printer,Florida,South,1675.33,4,0.1,476.63
+CA-1029,2024-05-15,Furniture,Table,Florida,Central,1806.84,1,0.3,-212.63
+CA-1030,2024-03-20,Office Supplies,Pen,Texas,Central,1915.49,9,0.3,570.26
+CA-1031,2024-01-26,Furniture,Chair,Illinois,South,1166.78,6,0.0,82.96
+CA-1032,2024-02-05,Technology,Printer,Illinois,East,331.72,2,0.1,93.01
+CA-1033,2024-10-23,Technology,Laptop,Illinois,East,819.48,10,0.1,221.91
+CA-1034,2024-05-13,Technology,Laptop,Texas,Central,850.07,9,0.2,78.07
+CA-1035,2024-06-10,Furniture,Table,California,East,803.66,5,0.3,109.17
+CA-1036,2024-09-16,Office Supplies,Pen,New York,West,1996.94,2,0.1,595.18
+CA-1037,2024-10-05,Office Supplies,Paper,New York,East,1760.96,3,0.3,-26.83
+CA-1038,2024-02-29,Technology,Printer,California,West,612.77,3,0.2,80.7
+CA-1039,2024-09-15,Office Supplies,Binder,Florida,Central,1217.56,4,0.2,193.36
+CA-1040,2024-06-19,Furniture,Chair,Texas,Central,1275.88,1,0.0,273.9
+CA-1041,2024-02-27,Furniture,Bookcase,California,West,894.83,9,0.0,136.76
+CA-1042,2024-03-06,Technology,Laptop,California,Central,1672.5,3,0.3,152.62
+CA-1043,2024-06-30,Office Supplies,Paper,Illinois,South,1799.87,4,0.0,-170.92
+CA-1044,2024-07-30,Technology,Printer,California,West,326.02,3,0.1,86.38
+CA-1045,2024-03-22,Technology,Phone,California,South,1569.13,4,0.2,9.19
+CA-1046,2024-06-05,Furniture,Table,Texas,West,460.42,8,0.2,95.9
+CA-1047,2024-06-28,Furniture,Bookcase,Illinois,South,402.4,2,0.2,-14.43
+CA-1048,2024-10-24,Technology,Printer,New York,East,675.68,5,0.1,-125.81
+CA-1049,2024-11-06,Furniture,Bookcase,Illinois,East,880.44,6,0.3,144.63
+CA-1050,2024-09-23,Office Supplies,Pen,Illinois,West,396.36,7,0.0,-70.48
+CA-1051,2024-12-05,Office Supplies,Binder,California,Central,158.55,6,0.2,20.95
+CA-1052,2024-04-08,Technology,Phone,Florida,South,1340.45,5,0.1,-49.47
+CA-1053,2024-10-07,Technology,Printer,California,Central,1807.55,5,0.3,194.78
+CA-1054,2024-08-14,Office Supplies,Paper,Florida,West,871.18,6,0.3,78.4
+CA-1055,2024-05-25,Technology,Phone,Illinois,Central,1591.6,3,0.0,445.51
+CA-1056,2024-01-13,Furniture,Chair,California,West,1352.14,4,0.1,-118.56
+CA-1057,2024-12-22,Office Supplies,Pen,Florida,South,1702.48,7,0.1,-278.5
+CA-1058,2024-04-22,Office Supplies,Paper,Texas,South,312.19,2,0.3,44.9
+CA-1059,2024-08-25,Furniture,Bookcase,Illinois,Central,513.41,8,0.1,115.09
+CA-1060,2024-03-22,Office Supplies,Pen,Florida,South,1633.71,7,0.3,401.91
+CA-1061,2024-11-16,Office Supplies,Paper,Texas,Central,1682.93,9,0.3,-103.24
+CA-1062,2024-10-03,Office Supplies,Paper,California,West,1432.82,6,0.2,-118.57
+CA-1063,2024-07-31,Furniture,Chair,Florida,Central,778.41,4,0.0,-96.21
+CA-1064,2024-10-26,Technology,Phone,California,South,843.23,7,0.3,-81.44
+CA-1065,2024-10-02,Office Supplies,Paper,Illinois,West,1886.63,7,0.3,-95.64
+CA-1066,2024-12-08,Office Supplies,Paper,Florida,West,560.41,7,0.2,24.0
+CA-1067,2024-02-12,Office Supplies,Paper,Florida,West,1961.83,7,0.0,131.56
+CA-1068,2024-06-16,Office Supplies,Paper,New York,South,119.56,4,0.3,-1.25
+CA-1069,2024-06-28,Office Supplies,Binder,Texas,East,519.5,1,0.0,-82.62
+CA-1070,2024-11-14,Technology,Laptop,Texas,West,1513.38,4,0.0,415.89
+CA-1071,2024-12-24,Furniture,Table,New York,Central,1345.53,4,0.3,110.31
+CA-1072,2024-06-08,Furniture,Bookcase,California,East,1222.35,2,0.1,212.64
+CA-1073,2024-02-08,Office Supplies,Pen,Illinois,West,1361.15,7,0.1,379.88
+CA-1074,2024-10-16,Furniture,Bookcase,California,Central,1549.51,10,0.0,348.87
+CA-1075,2024-08-03,Technology,Phone,Florida,East,1329.81,6,0.0,-220.11
+CA-1076,2024-03-31,Office Supplies,Binder,Illinois,Central,1278.46,3,0.3,274.04
+CA-1077,2024-06-14,Technology,Printer,Texas,East,1553.79,10,0.2,50.4
+CA-1078,2024-06-21,Office Supplies,Binder,California,South,502.85,10,0.3,16.27
+CA-1079,2024-05-23,Office Supplies,Paper,Illinois,Central,985.35,5,0.2,-22.26
+CA-1080,2024-09-07,Technology,Laptop,Illinois,West,1042.92,4,0.3,-108.96
+CA-1081,2024-05-30,Technology,Phone,Texas,South,1298.89,1,0.0,58.98
+CA-1082,2024-08-05,Technology,Laptop,Illinois,Central,626.29,8,0.2,56.85
+CA-1083,2024-04-08,Office Supplies,Pen,New York,East,918.42,4,0.0,-42.88
+CA-1084,2024-09-04,Technology,Printer,New York,Central,1902.74,4,0.1,276.05
+CA-1085,2024-12-28,Furniture,Chair,Illinois,West,606.57,5,0.0,-11.86
+CA-1086,2024-02-22,Office Supplies,Paper,California,Central,1949.1,3,0.3,149.46
+CA-1087,2024-09-01,Office Supplies,Binder,California,East,892.13,1,0.2,-96.19
+CA-1088,2024-03-17,Office Supplies,Binder,Illinois,Central,166.68,1,0.1,19.12
+CA-1089,2024-09-24,Furniture,Chair,Florida,South,254.53,10,0.1,46.38
+CA-1090,2024-11-08,Office Supplies,Binder,California,West,1723.13,5,0.0,508.35
+CA-1091,2024-10-09,Technology,Laptop,California,West,544.0,4,0.1,-86.72
+CA-1092,2024-04-28,Furniture,Table,New York,Central,912.0,5,0.0,88.38
+CA-1093,2024-08-05,Technology,Phone,California,West,160.94,5,0.1,-13.4
+CA-1094,2024-03-25,Technology,Laptop,New York,Central,1818.65,2,0.0,387.95
+CA-1095,2024-09-13,Office Supplies,Paper,Illinois,South,948.02,7,0.2,-45.46
+CA-1096,2024-01-14,Office Supplies,Paper,California,West,1204.11,6,0.2,294.66
+CA-1097,2024-03-30,Technology,Printer,Florida,South,1182.5,5,0.0,-224.23
+CA-1098,2024-08-28,Office Supplies,Paper,New York,South,1993.95,8,0.0,35.78
+CA-1099,2024-12-21,Office Supplies,Binder,Florida,Central,1346.86,6,0.3,308.25
+CA-1100,2024-06-10,Technology,Phone,New York,Central,1630.86,8,0.0,122.39
